@@ -1,0 +1,16 @@
+# One-click deploy config for Render.com (free tier)
+# Render dashboard me "New +" -> "Blueprint" -> apna GitHub repo select karo.
+services:
+  - type: web
+    name: datavision-ai
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: JWT_SECRET
+        generateValue: true          # Render khud strong secret bana dega
+      - key: ADMIN_EMAIL
+        value: admin@datavision.local # deploy ke baad change kar lena
+      - key: ADMIN_PASSWORD
+        value: Admin@1234             # deploy ke baad zaroor change karna!

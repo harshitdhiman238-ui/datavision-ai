@@ -1,0 +1,428 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,Category,Product,Quantity,Unit Price,Discount,Revenue,Cost,Profit,Payment Method
+ORD-10001,07/01/2025,CUST-121,Mohit Khan,South,Grocery,Green Tea Pack,5,326,0.07,1516,1066,450,Cash on Delivery
+ORD-10002,2025-07-29,CUST-207,Sanya Das,Central,Stationery,Desk Organizer,3,485,0.08,1339,813,526,UPI
+ORD-10003,2024-06-22,CUST-219,Nisha Gupta,South,Grocery,Basmati Rice 5kg,4,623,0.07,2318,1720,598,UPI
+ORD-10003,2024-06-22,CUST-219,Nisha Gupta,South,Grocery,Basmati Rice 5kg,4,623,0.07,2318,1720,598,UPI
+ORD-10004,2024-11-08,CUST-202,Sneha Sharma,Central,Electronics,Wireless Mouse,6,624,0.03,3632,2519,1113,Credit Card
+ORD-10005,2024-06-02,CUST-149,,Central,Stationery,Notebook Pack,3,229,0,687,398,289,Cash on Delivery
+ORD-10006,2024-10-03,CUST-168,Meera Iyer, South,Stationery,Notebook Pack,5,258,0.08,1187,872,315,Credit Card
+ORD-10007,2024-03-04,CUST-193,Shreya Reddy,West,Stationery,Gel Pen Set,4,140,0.01,554,401,153,UPI
+ORD-10008,07/08/2024,CUST-233,Sneha Das,Central,Home & Kitchen,Mixer Grinder,1,2399,0.05,2279,1534,745,Debit Card
+ORD-10009,2024-05-20,CUST-140,Vihaan Iyer,Central,Electronics,Bluetooth Speaker,6,1905,0.02,11201,7891,3310,Cash on Delivery
+ORD-10010,2025-08-24,CUST-207,Sanya Sharma,North,Electronics,Wireless Mouse,2,614,,1167,735,432,Net Banking
+ORD-10011,2025-03-25,CUST-196,Meera Das,West,Electronics,Laptop Stand,2,1094,0.05,2079,1390,689,Cash on Delivery
+ORD-10012,16/02/2024,CUST-221,Vihaan Singh,South,Stationery,Gel Pen Set,4,169,0.08,622,485,137,Cash on Delivery
+ORD-10013,2025-03-01,CUST-102,,West,Electronics,Smartwatch,4,3419,0.02,13402,7981,5421,UPI
+ORD-10014,2025-06-24,CUST-215,Vihaan Sharma, East,Home & Kitchen,Mixer Grinder,3,2787,0.04,8027,5645,2382,Credit Card
+ORD-10015,2025-03-16,CUST-189,Diya Das,East,Clothing,Cotton T-Shirt,2,452,0.07,841,527,314,UPI
+ORD-10016,2024-07-13,CUST-142,Priya Patel,North,Grocery,Green Tea Pack,6,275,0.01,1634,1083,551,Debit Card
+ORD-10017,2024-10-18,CUST-221,Ananya Gupta,West,Electronics,Laptop Stand,5,1216,0.01,6019,4391,1628,Cash on Delivery
+ORD-10018,2024-10-03,CUST-105,Rajesh Patel,West,Stationery,Desk Organizer,4,458,0.06,1722,1362,360,Cash on Delivery
+ORD-10019,2024-05-09,CUST-227,Priya Gupta,North,Electronics,Laptop Stand,4,1160,0.07,4315,3225,1090,UPI
+ORD-10020,2024-01-17,CUST-157,Ishita Khan,North,Clothing,Hoodie,6,932,0.03,5424,3422,2002,Cash on Delivery
+ORD-10021,2024-06-28,CUST-154,Amit Gupta,West,Clothing,Sports Shoes,2,2118,0.1,3812,2545,1267,Credit Card
+ORD-10022,2025-01-03,CUST-113,Sneha Reddy,South,Electronics,Smartwatch,1,3308,0.08,3043,2400,643,Credit Card
+ORD-10023,2025-06-01,CUST-188,Rajesh Gupta,Central,Electronics,USB-C Hub,2,1328,0.07,2470,1638,832,Debit Card
+ORD-10024,2024-07-19,CUST-220,Sanya Gupta, Central,Clothing,Denim Jeans,1,1421,0.05,1350,1026,324,Cash on Delivery
+ORD-10025,2024-10-19,CUST-207,Amit Nair,North,Grocery,Basmati Rice 5kg,4,647,0.04,2484,1775,709,Credit Card
+ORD-10026,2025-06-17,CUST-234,Sanya Verma,South,Home & Kitchen,Non-stick Pan,3,832,0.09,2271,1836,435,Debit Card
+ORD-10027,2024-02-02,CUST-159,Anjali Patel,North,Stationery,Desk Organizer,2,574,0.09,1045,762,283,Debit Card
+ORD-10028,20/03/2025,CUST-164,Rohan Verma,East,Home & Kitchen,Mixer Grinder,4,2892,0.04,11105,6835,4270,Credit Card
+ORD-10029,2024-05-02,CUST-162,Rajesh Nair,West,Stationery,Notebook Pack,2,283,0.04,543,406,137,Cash on Delivery
+ORD-10030,2025-07-19,CUST-122,Tanvi Sharma,Central,Home & Kitchen,Bedsheet Set,5,1163,0.02,5699,3517,2182,Debit Card
+ORD-10031,2025-05-06,CUST-153,Sanya Gupta,Central,Home & Kitchen,Non-stick Pan,2,781,0.09,1421,1095,326,UPI
+ORD-10032,2025-06-08,CUST-233,Aditya Verma,West,Grocery,Olive Oil 1L,4,807,0.07,3002,2262,740,Cash on Delivery
+ORD-10033,2025-09-26,CUST-128,Sneha Patel,East,Electronics,Bluetooth Speaker,6,1767,0.06,9966,5884,4082,Debit Card
+ORD-10034,2024-03-31,CUST-223,Rohan Das,Central,Grocery,Basmati Rice 5kg,1,664,0.06,624,446,178,Cash on Delivery
+ORD-10035,2025-01-01,CUST-151,Arjun Patel,West,Grocery,Green Tea Pack,3,317,0.07,884,606,278,Debit Card
+ORD-10036,2024-04-24,CUST-177,Meera Iyer,East,Home & Kitchen,Bedsheet Set,3,1364,0,4092,2887,1205,Net Banking
+ORD-10037,2025-01-14,CUST-197,Vihaan Reddy,Central,Home & Kitchen,Mixer Grinder,2,2442,0.1,4396,2825,1571,UPI
+ORD-10038,2024-10-19,CUST-216,Arjun Patel,Central,Clothing,Hoodie,1,1009,0.08,928,602,326,Cash on Delivery
+ORD-10039,11-3-2025,CUST-144,Kavya Singh,East,Electronics,Wireless Mouse,4,590,0,2360,1561,799,Net Banking
+ORD-10040,2025-04-21,CUST-184,Meera Iyer,South,Grocery,Basmati Rice 5kg,6,567,0.01,3368,1926,1442,Net Banking
+ORD-10041,2025-03-31,CUST-206,Rajesh Singh,East,Clothing,Denim Jeans,1,1401,0.05,1331,1024,307,UPI
+ORD-10042,2025-09-12,CUST-235,Suresh Singh,South,Clothing,Sports Shoes,3,2460,0.02,7232,4562,2670,Cash on Delivery
+ORD-10043,2025-07-19,CUST-207,Kabir Sharma,Central,Electronics,Wireless Mouse,1,652,0.05,619,433,186,Debit Card
+ORD-10043,2025-07-19,CUST-207,Kabir Sharma,Central,Electronics,Wireless Mouse,1,652,0.05,619,433,186,Debit Card
+ORD-10044,2024-10-13,CUST-171,,South,Electronics,Bluetooth Speaker,3,1968,0.03,5727,4273,1454,Debit Card
+ORD-10045,2024-11-12,CUST-202,Rohan Khan,West,Stationery,Notebook Pack,1,231,0.09,210,163,47,Net Banking
+ORD-10046,2025-03-21,CUST-234,Amit Singh,West,Stationery,Desk Organizer,2,550,0.08,1012,694,318,Cash on Delivery
+ORD-10047,2024-03-09,CUST-198,Nisha Nair, North,Stationery,Notebook Pack,2,240,0.05,456,347,109,UPI
+ORD-10048,2025-02-25,CUST-113,Tanvi Gupta,Central,Grocery,Basmati Rice 5kg,3,687,,2061,1439,622,Debit Card
+ORD-10049,2025-05-17,CUST-144,Arjun Sharma,Central,Stationery,Gel Pen Set,6,171,0.01,1016,726,290,Cash on Delivery
+ORD-10050,2024-09-28,CUST-177,Anjali Nair,North,Electronics,USB-C Hub,6,1579,0.08,8716,6870,1846,Debit Card
+ORD-10051,2025-09-25,CUST-223,Ishita Patel,West,Home & Kitchen,Non-stick Pan,5,874,0.01,4326,2702,1624,Net Banking
+ORD-10052,2024-05-12,CUST-102,Aarav Verma,East,Electronics,Bluetooth Speaker,2,1738,0.04,3337,2008,1329,UPI
+ORD-10053,2024-09-30,CUST-109,Rahul Verma,North,Clothing,Denim Jeans,6,1328,0.04,7649,4593,3056,Net Banking
+ORD-10054,2024-07-10,CUST-131,Rohan Singh,Central,Clothing,Denim Jeans,2,1186,0.07,2206,1609,597,UPI
+ORD-10055,30-9-2025,CUST-174,Kabir Sharma,East,Clothing,Hoodie,1,1043,0.09,949,594,355,Cash on Delivery
+ORD-10056,2024-04-19,CUST-126,Rohan Gupta,South,Clothing,Cotton T-Shirt,2,416,0.08,765,538,227,Debit Card
+ORD-10057,13/06/2025,CUST-173,Vihaan Verma,Central,Electronics,Smartwatch,5,3396,0.04,16301,11875,4426,Debit Card
+ORD-10058,2024-02-04,CUST-182,Karan Patel,East,Clothing,Hoodie,5,961,0.06,4517,2904,1613,Credit Card
+ORD-10059,2024-06-27,CUST-140,Kabir Reddy,North,Grocery,Olive Oil 1L,2,684,0.07,1272,807,465,Cash on Delivery
+ORD-10060,2025-07-07,CUST-119,Vikram Iyer,North,Electronics,Wireless Mouse,1,690,0.01,683,430,253,Cash on Delivery
+ORD-10061,24-10-2024,CUST-181,Pooja Gupta,Central,Electronics,USB-C Hub,1,1391,0.02,1363,813,550,Debit Card
+ORD-10062,2025-01-26,CUST-121,Sanya Khan,West,Stationery,Notebook Pack,3,251,0.01,745,527,218,UPI
+ORD-10063,2024-07-18,CUST-108,Kabir Nair,East,Grocery,Green Tea Pack,3,301,0.06,849,638,211,UPI
+ORD-10064,2024-11-06,CUST-114,Suresh Singh,West,Home & Kitchen,Bedsheet Set,1,1140,0.04,1094,791,303,Cash on Delivery
+ORD-10065,2025-07-22,CUST-191,Aarav Singh,South,Clothing,Sports Shoes,5,2283,0.01,11301,7142,4159,Cash on Delivery
+ORD-10066,2024-06-03,CUST-138,Karan Nair,South,Grocery,Olive Oil 1L,1,844,0.04,810,586,224,Credit Card
+ORD-10067,2025-03-05,CUST-109,Priya Singh,Central,Electronics,Bluetooth Speaker,2,1793,0.07,3335,2461,874,Cash on Delivery
+ORD-10068,2025-02-09,CUST-181,Meera Patel,North,Clothing,Cotton T-Shirt,3,449,0,1347,780,567,Net Banking
+ORD-10069,2025-03-22,CUST-123,Neha Nair,North,Grocery,Basmati Rice 5kg,6,663,0.1,3580,2874,706,Cash on Delivery
+ORD-10070,1-2-2025,CUST-218,,Central,Electronics,Smartwatch,4,3906,,14062,10604,3458,Net Banking
+ORD-10071,2024-11-11,CUST-100,Arjun Das,West,Grocery,Olive Oil 1L,5,759,0.08,3491,2212,1279,Credit Card
+ORD-10072,2024-11-13,CUST-164,Tanvi Verma,East,Clothing,Cotton T-Shirt,2,456,0.1,821,661,160,Cash on Delivery
+ORD-10073,19-6-2024,CUST-134,Aarav Iyer,South,Clothing,Cotton T-Shirt,5,407,0.09,1852,1249,603,Cash on Delivery
+ORD-10074,2024-05-08,CUST-145,Vihaan Das,North,Electronics,Wireless Mouse,3,736,0.06,2076,1389,687,Cash on Delivery
+ORD-10075,2025-06-20,CUST-189,Rahul Khan,South,Stationery,Desk Organizer,2,465,0.05,884,562,322,Net Banking
+ORD-10076,2024-07-16,CUST-145,Rahul Singh,South,Clothing,Cotton T-Shirt,1,430,0.09,391,316,75,Cash on Delivery
+ORD-10077,2025-03-23,CUST-143,Priya Verma,North,Clothing,Hoodie,2,1033,0.02,2025,1232,793,UPI
+ORD-10078,2025-05-18,CUST-125,Riya Reddy,East,Stationery,Notebook Pack,2,239,0.1,430,338,92,UPI
+ORD-10079,2024-10-15,CUST-221,Kavya Khan,East,Clothing,Denim Jeans,2,1473,0.09,2681,1819,862,Cash on Delivery
+ORD-10080,2025-06-24,CUST-172,Pooja Sharma, South,Grocery,Green Tea Pack,2,273,0.1,491,322,169,UPI
+ORD-10081,2024-02-25,CUST-103,Karan Sharma,East,Grocery,Green Tea Pack,6,310,0.08,1711,1263,448,Credit Card
+ORD-10082,2024-02-02,CUST-143,Kabir Singh,South,Grocery,Green Tea Pack,4,333,0.03,1292,932,360,Cash on Delivery
+ORD-10083,2024-07-13,CUST-108,Mohit Nair,North,Clothing,Hoodie,5,920,0.06,4324,3086,1238,Credit Card
+ORD-10084,09/06/2024,CUST-157,Riya Reddy,West,Stationery,Notebook Pack,1,273,0.02,268,159,109,Net Banking
+ORD-10085,2025-05-07,CUST-163,Dev Iyer,Central,Home & Kitchen,Mixer Grinder,2,2688,,5000,3754,1246,Net Banking
+ORD-10086,2025-07-05,CUST-220,Neha Gupta,Central,Stationery,Gel Pen Set,6,146,0.04,841,518,323,Credit Card
+ORD-10087,2025-03-25,CUST-114,Vikram Khan,South,Clothing,Cotton T-Shirt,5,418,0.05,1986,1312,674,Credit Card
+ORD-10088,2025-01-09,CUST-102,Ananya Iyer,Central,Clothing,Sports Shoes,3,2298,0.06,6480,5168,1312,UPI
+ORD-10089,2025-05-18,CUST-139,Riya Patel, North,Stationery,Desk Organizer,1,458,0.06,431,284,147,Debit Card
+ORD-10090,2024-08-29,CUST-198,Arjun Nair,North,Grocery,Green Tea Pack,4,303,0.06,1139,744,395,Debit Card
+ORD-10091,2024-05-13,CUST-135,Manish Singh,East,Stationery,Notebook Pack,2,269,0.01,533,382,151,Net Banking
+ORD-10092,3-12-2024,CUST-141,Rohan Iyer,Central,Stationery,Notebook Pack,6,270,0.03,1571,930,641,Credit Card
+ORD-10093,12/06/2025,CUST-123,Ananya Reddy,Central,Stationery,Notebook Pack,3,265,0.05,755,454,301,UPI
+ORD-10094,2024-01-16,CUST-195,Rohan Gupta,West,Grocery,Green Tea Pack,3,320,0.03,931,613,318,UPI
+ORD-10095,2024-04-26,CUST-213,Arjun Iyer,West,Stationery,Notebook Pack,5,229,0.03,1111,669,442,Net Banking
+ORD-10096,2024-08-27,CUST-221,Sneha Patel,North,Stationery,Gel Pen Set,5,146,0.05,694,433,261,Debit Card
+ORD-10097,2025-04-11,CUST-112,Kabir Khan,North,Home & Kitchen,Non-stick Pan,2,924,0.05,1756,1079,677,UPI
+ORD-10097,2025-04-11,CUST-112,Kabir Khan,North,Home & Kitchen,Non-stick Pan,2,924,0.05,1756,1079,677,UPI
+ORD-10098,2024-12-27,CUST-148,Kavya Singh,East,Home & Kitchen,Mixer Grinder,4,2966,0.01,11745,7572,4173,Credit Card
+ORD-10099,2024-05-03,CUST-149,Ishita Patel,East,Stationery,Gel Pen Set,2,149,0.04,286,190,96,Credit Card
+ORD-10100,2024-06-14,CUST-191,Amit Verma,Central,Stationery,Desk Organizer,5,496,0.09,2257,1736,521,Credit Card
+ORD-10101,2024-08-11,CUST-111,Nisha Reddy,West,Electronics,Smartwatch,2,3829,0.04,7352,4950,2402,Debit Card
+ORD-10102,2025-01-30,CUST-107,Mohit Verma,South,Electronics,Bluetooth Speaker,4,1701,0.05,6464,4634,1830,UPI
+ORD-10103,09/05/2024,CUST-180,Manish Singh,South,Stationery,Notebook Pack,5,246,0.09,1119,906,213,UPI
+ORD-10104,2024-12-23,CUST-173,Tanvi Patel,West,Clothing,Cotton T-Shirt,1,406,0.04,390,231,159,Credit Card
+ORD-10105,2024-01-24,CUST-219,Sanya Gupta,Central,Stationery,Gel Pen Set,2,136,0.01,269,204,65,Debit Card
+ORD-10106,2025-07-14,CUST-134,Tanvi Patel,East,Grocery,Basmati Rice 5kg,3,636,0.08,1755,1232,523,UPI
+ORD-10107,13/09/2024,CUST-162,Diya Singh,East,Home & Kitchen,Bedsheet Set,5,1151,0.06,5410,4002,1408,Credit Card
+ORD-10108,2025-04-26,CUST-111,Rajesh Das,South,Home & Kitchen,Non-stick Pan,4,780,0,3120,2074,1046,Credit Card
+ORD-10109,01/04/2025,CUST-121,Pooja Verma,West,Stationery,Notebook Pack,3,266,0,798,587,211,Debit Card
+ORD-10110,2024-06-08,CUST-125,Aditya Gupta,North,Clothing,Sports Shoes,1,2378,0.04,2283,1699,584,Cash on Delivery
+ORD-10111,2025-04-01,CUST-101,Aditya Sharma,South,Grocery,Basmati Rice 5kg,6,608,0,3648,2566,1082,Net Banking
+ORD-10112,2024-11-08,CUST-169,Suresh Nair,South,Grocery,Basmati Rice 5kg,3,610,0.05,1739,1142,597,Net Banking
+ORD-10113,2024-04-03,CUST-237,Rohan Iyer,North,Electronics,Bluetooth Speaker,4,1943,0.01,7694,4705,2989,Credit Card
+ORD-10114,2024-02-11,CUST-223,Dev Reddy,South,Stationery,Gel Pen Set,3,146,0.03,425,246,179,Debit Card
+ORD-10115,2025-01-21,CUST-107,Mohit Khan,West,Electronics,Bluetooth Speaker,6,1853,0.06,10451,7403,3048,Cash on Delivery
+ORD-10116,2025-08-16,CUST-201,Rajesh Verma,Central,Clothing,Sports Shoes,5,2141,0.02,10491,7862,2629,Cash on Delivery
+ORD-10117,2024-03-17,CUST-226,Kabir Das,West,Grocery,Olive Oil 1L,5,762,0.05,3620,2766,854,Net Banking
+ORD-10118,2024-03-29,CUST-218,Aditya Iyer,Central,Home & Kitchen,Bedsheet Set,6,1354,0.06,7637,4484,3153,Credit Card
+ORD-10119,2024-07-12,CUST-184,Aarav Reddy,North,Electronics,Smartwatch,2,3875,0.07,7207,4406,2801,UPI
+ORD-10120,2024-02-18,CUST-191,Neha Iyer,East,Electronics,Bluetooth Speaker,6,1676,0,10056,6375,3681,Debit Card
+ORD-10121,2024-05-05,CUST-132,Ananya Verma,East,Grocery,Olive Oil 1L,4,700,0.05,2660,1622,1038,Cash on Delivery
+ORD-10122,2024-03-27,CUST-118,Mohit Verma,North,Grocery,Basmati Rice 5kg,2,602,0.08,1108,740,368,Debit Card
+ORD-10123,2024-12-20,CUST-145,Suresh Nair,West,Stationery,Notebook Pack,1,249,0.01,247,178,69,Debit Card
+ORD-10124,2025-08-26,CUST-153,Priya Nair,East,Stationery,Desk Organizer,5,462,0,2310,1319,991,Net Banking
+ORD-10125,2025-04-13,CUST-210,Ananya Patel,South,Clothing,Sports Shoes,5,2247,0.09,10224,8304,1920,Cash on Delivery
+ORD-10126,2025-06-18,CUST-138,Kabir Das,Central,Stationery,Gel Pen Set,2,149,0.04,286,173,113,Cash on Delivery
+ORD-10127,2025-08-02,CUST-143,Arjun Sharma,West,Clothing,Denim Jeans,1,1371,0.05,1302,918,384,Credit Card
+ORD-10128,2024-04-07,CUST-222,Rahul Khan,North,Clothing,Denim Jeans,3,1428,0.02,4198,2360,1838,Cash on Delivery
+ORD-10129,2025-07-09,CUST-120,Suresh Singh,Central,Stationery,Desk Organizer,4,574,0.01,2273,1633,640,UPI
+ORD-10130,2024-03-13,CUST-216,Neha Khan,North,Electronics,Laptop Stand,5,1142,0.08,5253,3836,1417,Debit Card
+ORD-10131,16-9-2025,CUST-222,Karan Das,South,Home & Kitchen,Mixer Grinder,1,2662,0.09,2422,1942,480,Cash on Delivery
+ORD-10132,2024-10-11,CUST-169,Aarav Sharma,West,Electronics,Wireless Mouse,4,631,0.03,2448,1501,947,Debit Card
+ORD-10133,2024-10-26,CUST-117,Kabir Das,North,Clothing,Cotton T-Shirt,2,477,,906,633,273,Cash on Delivery
+ORD-10134,2025-02-13,CUST-100,Sneha Nair,West,Grocery,Olive Oil 1L,4,676,0.04,2596,1794,802,Credit Card
+ORD-10135,2024-12-10,CUST-137,Priya Khan,West,Electronics,Bluetooth Speaker,3,2038,0.07,5686,3801,1885,Net Banking
+ORD-10136,2024-12-08,CUST-115,Ananya Verma,South,Grocery,Olive Oil 1L,2,760,0.09,1383,948,435,Credit Card
+ORD-10137,2025-08-21,CUST-144,Aditya Singh,East,Electronics,USB-C Hub,3,1447,0.06,4081,2405,1676,Debit Card
+ORD-10138,2024-02-10,CUST-237,Aditya Singh,North,Home & Kitchen,Bedsheet Set,5,1353,0.02,6630,4097,2533,Credit Card
+ORD-10139,2024-10-02,CUST-173,Ananya Khan,Central,Grocery,Basmati Rice 5kg,5,560,0.03,2716,1926,790,Net Banking
+ORD-10140,2025-03-21,CUST-154,Arjun Singh,Central,Grocery,Basmati Rice 5kg,2,575,0.04,1104,820,284,UPI
+ORD-10141,2025-09-29,CUST-140,Rohan Khan,Central,Electronics,Smartwatch,5,3714,0.08,17084,13156,3928,Net Banking
+ORD-10142,2024-09-01,CUST-202,Meera Gupta,South,Grocery,Basmati Rice 5kg,3,609,0.05,1736,1370,366,UPI
+ORD-10143,2025-02-07,CUST-192,Ishita Sharma,North,Stationery,Desk Organizer,2,505,0.01,1000,595,405,UPI
+ORD-10144,2025-02-07,CUST-108,Neha Iyer,West,Home & Kitchen,Bedsheet Set,1,1142,0.03,1108,723,385,Cash on Delivery
+ORD-10145,2025-05-04,CUST-212,Nisha Iyer,West,Stationery,Notebook Pack,6,269,0.04,1549,1099,450,Net Banking
+ORD-10145,2025-05-04,CUST-212,Nisha Iyer,West,Stationery,Notebook Pack,6,269,0.04,1549,1099,450,Net Banking
+ORD-10146,2024-12-31,CUST-150,Vikram Gupta,South,Stationery,Desk Organizer,2,501,0.05,952,573,379,Debit Card
+ORD-10146,2024-12-31,CUST-150,Vikram Gupta,South,Stationery,Desk Organizer,2,501,0.05,952,573,379,Debit Card
+ORD-10147,2025-01-09,CUST-232,Karan Iyer,East,Electronics,Smartwatch,3,3523,0.02,10358,7571,2787,Credit Card
+ORD-10148,2024-11-22,CUST-146,Nisha Khan,West,Stationery,Desk Organizer,3,504,0.1,1361,950,411,Cash on Delivery
+ORD-10149,2024-01-24,CUST-135,Dev Reddy,North,Electronics,Wireless Mouse,4,597,0.01,2364,1442,922,UPI
+ORD-10150,2024-09-01,CUST-220,Amit Gupta,Central,Stationery,Gel Pen Set,3,141,0.01,419,245,174,Cash on Delivery
+ORD-10151,2024-08-03,CUST-196,Vikram Singh,West,Clothing,Sports Shoes,6,2075,0.06,11703,7803,3900,Cash on Delivery
+ORD-10152,2025-02-16,CUST-149,Ananya Das,North,Electronics,USB-C Hub,6,1409,0.07,7862,5422,2440,Debit Card
+ORD-10153,26/04/2024,CUST-129,Vikram Verma,South,Electronics,USB-C Hub,3,1359,0.05,3873,2785,1088,Credit Card
+ORD-10154,2024-10-12,CUST-186,Suresh Khan,East,Stationery,Notebook Pack,1,226,0.03,219,140,79,UPI
+ORD-10155,2024-07-10,CUST-124,Kabir Nair,North,Home & Kitchen,Mixer Grinder,6,2560,0.06,14438,11319,3119,UPI
+ORD-10156,2024-03-02,CUST-199,Pooja Iyer,Central,Electronics,Smartwatch,2,3493,0,6986,4831,2155,Credit Card
+ORD-10157,2024-12-19,CUST-109,Sanya Verma,North,Home & Kitchen,Mixer Grinder,5,2357,0.03,11431,8092,3339,Credit Card
+ORD-10158,2024-07-24,CUST-103,Neha Das,Central,Stationery,Gel Pen Set,4,142,0.06,534,342,192,Cash on Delivery
+ORD-10159,2025-04-10,CUST-125,Suresh Khan,Central,Stationery,Gel Pen Set,3,168,,499,299,200,Cash on Delivery
+ORD-10160,7-11-2024,CUST-228,Kavya Nair,West,Electronics,Wireless Mouse,6,592,0.03,3445,2137,1308,Net Banking
+ORD-10161,2024-12-11,CUST-180,Diya Patel, West,Stationery,Desk Organizer,1,573,0.01,567,324,243,Cash on Delivery
+ORD-10162,2025-08-03,CUST-208,Kabir Iyer,West,Grocery,Green Tea Pack,5,344,0.05,1634,1209,425,Cash on Delivery
+ORD-10163,2024-01-12,CUST-163,Dev Reddy,West,Clothing,Hoodie,1,868,0.04,833,508,325,UPI
+ORD-10164,2024-08-28,CUST-170,Rahul Sharma,East,Grocery,Basmati Rice 5kg,4,605,0.08,2226,1482,744,Credit Card
+ORD-10165,2024-09-14,CUST-119,Nisha Das,North,Clothing,Cotton T-Shirt,2,465,,846,533,313,UPI
+ORD-10166,15/02/2024,CUST-208,Ananya Gupta,Central,Grocery,Green Tea Pack,6,312,0.01,1853,1207,646,Credit Card
+ORD-10167,2025-02-11,CUST-149,Aarav Reddy,West,Electronics,Smartwatch,1,3797,0.08,3493,2144,1349,Net Banking
+ORD-10168,2024-05-14,CUST-109,Sneha Das,West,Clothing,Hoodie,1,1025,0,1025,607,418,Cash on Delivery
+ORD-10169,2024-01-16,CUST-123,Neha Das,Central,Home & Kitchen,Mixer Grinder,3,2652,0.02,7797,4809,2988,Net Banking
+ORD-10170,2024-06-26,CUST-155,Aditya Iyer,West,Clothing,Hoodie,2,995,0.02,1950,1411,539,UPI
+ORD-10171,2025-06-19,CUST-121,Shreya Verma,North,Stationery,Notebook Pack,2,236,,448,328,120,Cash on Delivery
+ORD-10172,2025-07-26,CUST-120,Manish Reddy,North,Clothing,Hoodie,5,913,0.04,4382,2579,1803,Cash on Delivery
+ORD-10173,2024-05-18,CUST-233,Kabir Verma,North,Clothing,Denim Jeans,5,1336,0.04,6413,4329,2084,Credit Card
+ORD-10174,2024-10-22,CUST-216,Shreya Nair,South,Clothing,Hoodie,3,954,0.02,2805,2001,804,Net Banking
+ORD-10175,2025-08-19,CUST-223,Mohit Singh,North,Grocery,Basmati Rice 5kg,5,599,0.06,2815,1678,1137,UPI
+ORD-10176,2025-03-13,CUST-193,Neha Khan,North,Home & Kitchen,Mixer Grinder,4,2839,0.02,11129,6920,4209,Net Banking
+ORD-10177,2024-09-16,CUST-149,Rajesh Singh,Central,Clothing,Hoodie,3,1034,0.02,3040,1956,1084,UPI
+ORD-10178,2025-03-23,CUST-204,Meera Reddy,South,Electronics,Wireless Mouse,3,650,0.04,1872,1394,478,Debit Card
+ORD-10179,2024-01-09,CUST-146,Aarav Gupta,Central,Clothing,Hoodie,1,956,0.09,870,616,254,Cash on Delivery
+ORD-10180,2024-02-21,CUST-194,Kavya Verma,North,Grocery,Basmati Rice 5kg,2,602,0.06,1132,759,373,Credit Card
+ORD-10181,25/04/2024,CUST-168,Amit Verma,North,Clothing,Sports Shoes,6,2082,0.04,11992,8402,3590,UPI
+ORD-10182,2024-03-02,CUST-225,Ishita Khan, South,Grocery,Olive Oil 1L,5,800,0.01,3960,2962,998,Debit Card
+ORD-10183,2024-01-16,CUST-199,Ananya Verma,South,Home & Kitchen,Non-stick Pan,3,784,0.04,2258,1485,773,Net Banking
+ORD-10184,2025-03-15,CUST-156,,Central,Electronics,Bluetooth Speaker,5,1954,0.01,9672,5875,3797,Credit Card
+ORD-10185,2025-05-22,CUST-173,Arjun Singh,North,Clothing,Hoodie,1,967,0.06,909,717,192,Cash on Delivery
+ORD-10186,2024-10-11,CUST-124,Amit Gupta, South,Clothing,Sports Shoes,2,2320,0,4640,2830,1810,Net Banking
+ORD-10187,2024-01-19,CUST-131,Ananya Verma,South,Stationery,Gel Pen Set,3,164,0.04,472,352,120,Cash on Delivery
+ORD-10188,2024-05-18,CUST-156,Aarav Nair,West,Stationery,Gel Pen Set,2,159,0.06,299,191,108,Credit Card
+ORD-10189,2025-03-26,CUST-160,Kavya Patel,South,Grocery,Green Tea Pack,6,331,0.01,1966,1156,810,Cash on Delivery
+ORD-10190,2024-08-02,CUST-208,Mohit Gupta,North,Home & Kitchen,Non-stick Pan,1,819,0.05,778,606,172,UPI
+ORD-10191,19/02/2024,CUST-229,Rajesh Gupta,Central,Stationery,Notebook Pack,3,284,0.01,843,497,346,Cash on Delivery
+ORD-10192,2025-02-05,CUST-217,Tanvi Reddy,Central,Clothing,Denim Jeans,1,1384,0.05,1315,809,506,Credit Card
+ORD-10193,2025-03-02,CUST-207,Diya Patel,North,Clothing,Denim Jeans,4,1231,0.02,4826,2916,1910,Credit Card
+ORD-10194,08/02/2025,CUST-119,Sneha Reddy,East,Electronics,Wireless Mouse,1,642,0.03,623,384,239,Net Banking
+ORD-10195,2024-05-12,CUST-209,Sneha Singh,East,Home & Kitchen,Non-stick Pan,5,849,0.01,4203,3119,1084,Debit Card
+ORD-10196,2024-01-27,CUST-196,Manish Khan,North,Home & Kitchen,Non-stick Pan,1,817,0.09,743,534,209,Cash on Delivery
+ORD-10197,2024-01-27,CUST-126,Neha Nair,North,Electronics,USB-C Hub,6,1470,0.06,8291,6360,1931,Credit Card
+ORD-10198,2024-09-11,CUST-230,Nisha Das,Central,Grocery,Green Tea Pack,4,318,0.01,1259,788,471,Cash on Delivery
+ORD-10199,2025-02-01,CUST-223,Vikram Iyer,North,Home & Kitchen,Mixer Grinder,5,2943,0.03,14274,9518,4756,UPI
+ORD-10200,2025-08-20,CUST-139,Kavya Patel,South,Grocery,Green Tea Pack,1,280,0.05,266,202,64,Debit Card
+ORD-10201,2024-12-04,CUST-142,Mohit Gupta,South,Stationery,Notebook Pack,4,260,0.01,1030,581,449,Credit Card
+ORD-10202,2025-02-02,CUST-150,Anjali Nair,West,Electronics,USB-C Hub,6,1583,0.08,8738,6543,2195,UPI
+ORD-10203,2025-01-21,CUST-129,Vikram Das,West,Clothing,Hoodie,1,1025,0.09,933,708,225,Debit Card
+ORD-10204,2024-11-26,CUST-204,Amit Patel,South,Grocery,Basmati Rice 5kg,6,591,0.02,3475,2565,910,Credit Card
+ORD-10205,2024-08-07,CUST-150,,West,Home & Kitchen,Non-stick Pan,3,954,0.04,2748,2114,634,Cash on Delivery
+ORD-10206,2024-03-27,CUST-149,Anjali Nair,North,Clothing,Cotton T-Shirt,1,480,0.09,437,281,156,Debit Card
+ORD-10207,2025-05-07,CUST-231,Aditya Sharma,West,Grocery,Olive Oil 1L,3,769,0.08,2122,1554,568,Credit Card
+ORD-10208,2024-05-02,CUST-167,Karan Iyer,East,Grocery,Green Tea Pack,3,278,0.09,759,522,237,Credit Card
+ORD-10209,2025-04-14,CUST-165,Mohit Das,West,Stationery,Gel Pen Set,6,152,0.06,857,648,209,Cash on Delivery
+ORD-10210,2025-04-08,CUST-219,Amit Das,Central,Stationery,Gel Pen Set,1,170,0.02,167,125,42,Debit Card
+ORD-10211,2024-11-27,CUST-173,Sanya Gupta,Central,Home & Kitchen,Mixer Grinder,5,2370,,10902,8154,2748,Net Banking
+ORD-10212,2025-02-01,CUST-181,Amit Singh,Central,Grocery,Basmati Rice 5kg,4,572,0.07,2128,1703,425,Debit Card
+ORD-10213,2024-10-12,CUST-101,Rahul Singh,North,Clothing,Sports Shoes,3,2211,0.08,6102,4796,1306,Debit Card
+ORD-10214,2024-03-15,CUST-218,Dev Das,North,Home & Kitchen,Mixer Grinder,5,2762,0.03,13396,8018,5378,Debit Card
+ORD-10215,2024-12-21,CUST-165,Suresh Patel,Central,Stationery,Gel Pen Set,5,157,0.04,754,542,212,Net Banking
+ORD-10216,2025-06-11,CUST-221,Kavya Gupta,East,Grocery,Basmati Rice 5kg,3,643,0.1,1736,1172,564,UPI
+ORD-10217,2025-04-11,CUST-145,Meera Iyer,South,Clothing,Hoodie,5,872,0.07,4055,2405,1650,Debit Card
+ORD-10218,2025-08-13,CUST-186,Priya Nair,East,Clothing,Sports Shoes,4,2286,0.05,8687,5843,2844,Cash on Delivery
+ORD-10219,2025-08-16,CUST-115,Arjun Reddy,North,Stationery,Notebook Pack,1,254,0.01,251,159,92,Debit Card
+ORD-10220,2025-02-24,CUST-220,Ananya Gupta,West,Home & Kitchen,Mixer Grinder,2,2958,0.03,5739,4397,1342,Cash on Delivery
+ORD-10221,2025-05-29,CUST-239,Arjun Reddy,West,Home & Kitchen,Mixer Grinder,4,2400,0.1,8640,6470,2170,Net Banking
+ORD-10222,2024-06-30,CUST-100,Pooja Das,West,Clothing,Cotton T-Shirt,2,503,0.01,996,602,394,Credit Card
+ORD-10223,2025-05-24,CUST-105,,South,Electronics,Smartwatch,1,3891,0.03,3774,2636,1138,Cash on Delivery
+ORD-10224,2024-08-09,CUST-193,Diya Verma,North,Grocery,Olive Oil 1L,6,767,0.06,4326,2713,1613,Credit Card
+ORD-10225,2025-08-21,CUST-228,Priya Sharma,Central,Stationery,Gel Pen Set,6,168,0.04,968,598,370,Cash on Delivery
+ORD-10226,2025-08-13,CUST-104,Ananya Iyer,Central,Stationery,Notebook Pack,1,229,0.02,224,160,64,Debit Card
+ORD-10227,2024-07-04,CUST-127,Arjun Das,West,Home & Kitchen,Bedsheet Set,6,1143,0.05,6515,5091,1424,Credit Card
+ORD-10228,2024-03-19,CUST-102,Neha Patel,North,Stationery,Gel Pen Set,4,139,0.03,539,366,173,Net Banking
+ORD-10229,2024-04-20,CUST-131,Vihaan Sharma,South,Grocery,Olive Oil 1L,6,787,0.08,4344,3371,973,UPI
+ORD-10230,2024-02-08,CUST-123,Tanvi Verma,North,Home & Kitchen,Non-stick Pan,1,938,0.03,910,517,393,Credit Card
+ORD-10231,2025-04-24,CUST-123,Vihaan Patel,Central,Electronics,USB-C Hub,5,1381,0.01,6836,4699,2137,Credit Card
+ORD-10232,2024-10-21,CUST-111,Vihaan Iyer,South,Stationery,Notebook Pack,5,243,0.07,1130,777,353,Net Banking
+ORD-10233,2025-01-29,CUST-235,Riya Verma,South,Clothing,Sports Shoes,4,2228,0.09,8110,6471,1639,Net Banking
+ORD-10234,2024-08-16,CUST-223,Arjun Patel,West,Stationery,Gel Pen Set,2,149,0.08,274,203,71,Debit Card
+ORD-10235,2024-12-08,CUST-103,Vikram Patel,Central,Electronics,Smartwatch,2,3269,0.06,6146,3928,2218,Debit Card
+ORD-10236,2025-08-09,CUST-105,Vikram Das,West,Home & Kitchen,Bedsheet Set,4,1162,0.02,4555,2819,1736,Credit Card
+ORD-10237,2024-08-29,CUST-158,Ananya Singh,Central,Home & Kitchen,Mixer Grinder,4,2701,0,10804,6853,3951,Debit Card
+ORD-10238,2024-05-30,CUST-170,Rajesh Verma,Central,Electronics,Wireless Mouse,2,639,0.04,1227,928,299,Cash on Delivery
+ORD-10239,2025-04-29,CUST-205,Sanya Singh,South,Electronics,USB-C Hub,1,1559,0.01,1543,893,650,Net Banking
+ORD-10240,2024-02-02,CUST-157,Anjali Khan,North,Electronics,Smartwatch,6,4018,0.05,22903,14714,8189,Net Banking
+ORD-10241,2024-05-30,CUST-154,Vihaan Sharma,West,Electronics,Smartwatch,6,3506,0.03,20405,13719,6686,Credit Card
+ORD-10242,2025-05-28,CUST-116,Sanya Patel,East,Electronics,Bluetooth Speaker,4,1870,0.06,7031,4573,2458,Credit Card
+ORD-10243,2025-08-13,CUST-170,Vihaan Nair,East,Electronics,Wireless Mouse,4,703,0.05,2671,1919,752,Debit Card
+ORD-10244,2024-07-11,CUST-182,Manish Verma,South,Grocery,Green Tea Pack,1,304,0.09,277,195,82,Cash on Delivery
+ORD-10245,2024-03-26,CUST-108,,North,Home & Kitchen,Bedsheet Set,4,1379,0.01,5461,4133,1328,Net Banking
+ORD-10246,2024-03-04,CUST-135,Amit Das,West,Stationery,Notebook Pack,5,278,0.04,1334,828,506,Net Banking
+ORD-10247,2024-01-15,CUST-185,Shreya Patel,Central,Grocery,Basmati Rice 5kg,3,684,0.08,1888,1403,485,Net Banking
+ORD-10248,2025-07-02,CUST-209,,North,Electronics,Bluetooth Speaker,3,1654,0.1,4466,3312,1154,Credit Card
+ORD-10249,2025-09-03,CUST-202,Priya Patel,South,Home & Kitchen,Mixer Grinder,4,2418,,9382,6339,3043,Credit Card
+ORD-10250,2025-07-24,CUST-113,Sneha Sharma,West,Clothing,Denim Jeans,1,1488,0.05,1414,1037,377,UPI
+ORD-10251,23-2-2025,CUST-217,Aditya Verma,South,Home & Kitchen,Bedsheet Set,2,1155,0.04,2218,1712,506,UPI
+ORD-10252,2024-12-11,CUST-174,Amit Iyer,Central,Stationery,Desk Organizer,1,515,0.04,494,362,132,Debit Card
+ORD-10253,2025-05-03,CUST-235,Shreya Verma,North,Grocery,Green Tea Pack,5,293,0.06,1377,931,446,Debit Card
+ORD-10254,16/07/2025,CUST-226,Tanvi Reddy,North,Stationery,Notebook Pack,5,251,,1180,789,391,Net Banking
+ORD-10255,2025-02-06,CUST-235,Aditya Khan,West,Clothing,Cotton T-Shirt,6,488,0.01,2899,2068,831,UPI
+ORD-10256,2024-12-24,CUST-129,Nisha Patel,North,Electronics,USB-C Hub,5,1368,0.08,6293,4005,2288,Debit Card
+ORD-10257,2025-01-22,CUST-192,Aditya Sharma,West,Clothing,Cotton T-Shirt,4,512,0.04,1966,1425,541,Credit Card
+ORD-10258,2025-04-24,CUST-154,Riya Singh,North,Home & Kitchen,Bedsheet Set,4,1279,,5116,3096,2020,Net Banking
+ORD-10259,2024-12-30,CUST-116,Amit Khan,North,Grocery,Olive Oil 1L,5,724,0.1,3258,2196,1062,Debit Card
+ORD-10260,2024-10-02,CUST-117,Karan Patel,South,Clothing,Denim Jeans,6,1372,0.02,8067,5462,2605,Cash on Delivery
+ORD-10261,2024-12-12,CUST-149,Karan Khan,West,Stationery,Notebook Pack,6,232,0.05,1322,966,356,Net Banking
+ORD-10262,2024-04-16,CUST-158,Mohit Nair,North,Clothing,Hoodie,5,907,0,4535,2924,1611,Debit Card
+ORD-10263,2025-03-18,CUST-112,Shreya Khan,North,Stationery,Notebook Pack,6,263,0,1578,1178,400,Credit Card
+ORD-10264,2024-06-16,CUST-205,Priya Singh,South,Electronics,Smartwatch,1,3281,0.01,3248,1965,1283,Cash on Delivery
+ORD-10265,2024-07-10,CUST-137,Rajesh Patel,Central,Grocery,Green Tea Pack,1,315,0.03,306,211,95,Cash on Delivery
+ORD-10266,24/05/2025,CUST-135,Riya Patel,East,Electronics,USB-C Hub,1,1442,0.02,1413,873,540,Cash on Delivery
+ORD-10267,2024-11-28,CUST-182,Rohan Singh,West,Clothing,Denim Jeans,5,1353,0.07,6291,4857,1434,Cash on Delivery
+ORD-10268,11/03/2025,CUST-120,Anjali Verma,Central,Stationery,Desk Organizer,3,455,,1324,759,565,Credit Card
+ORD-10269,2025-04-28,CUST-214,Sneha Gupta,North,Stationery,Gel Pen Set,1,165,0.03,160,115,45,UPI
+ORD-10270,2025-08-18,CUST-216,Vihaan Reddy,East,Clothing,Hoodie,5,1031,0.1,4640,3163,1477,UPI
+ORD-10271,15/06/2024,CUST-178,Kabir Patel,North,Home & Kitchen,Non-stick Pan,4,954,0,3816,2821,995,Debit Card
+ORD-10272,2025-07-30,CUST-196,Rajesh Reddy,Central,Electronics,Wireless Mouse,4,645,0.05,2451,1651,800,Credit Card
+ORD-10273,2024-02-17,CUST-225,Vikram Sharma,East,Home & Kitchen,Bedsheet Set,2,1126,0.06,2117,1337,780,Debit Card
+ORD-10274,21/11/2024,CUST-184,Rajesh Verma,North,Clothing,Cotton T-Shirt,5,478,0.09,2175,1774,401,Net Banking
+ORD-10275,2024-05-29,CUST-181,Pooja Gupta,South,Stationery,Gel Pen Set,5,144,0.04,691,495,196,Net Banking
+ORD-10276,2025-05-16,CUST-211,Sneha Nair,South,Home & Kitchen,Bedsheet Set,4,1201,0.03,4660,3422,1238,Cash on Delivery
+ORD-10276,2025-05-16,CUST-211,Sneha Nair,South,Home & Kitchen,Bedsheet Set,4,1201,0.03,4660,3422,1238,Cash on Delivery
+ORD-10277,2025-02-05,CUST-196,Kabir Das,Central,Stationery,Desk Organizer,6,551,0,3306,1988,1318,UPI
+ORD-10278,2024-01-03,CUST-113,Priya Verma,East,Electronics,Wireless Mouse,5,715,0.04,3432,2140,1292,UPI
+ORD-10279,2025-01-27,CUST-179,Mohit Verma,South,Stationery,Notebook Pack,4,287,0,1148,694,454,Net Banking
+ORD-10280,2024-04-16,CUST-158,Rohan Sharma,Central,Home & Kitchen,Non-stick Pan,6,862,0.03,5017,3567,1450,UPI
+ORD-10281,2024-04-08,CUST-196,Kavya Nair,South,Electronics,Bluetooth Speaker,5,1679,0.09,7639,5092,2547,Debit Card
+ORD-10282,2024-11-23,CUST-178,Dev Khan,East,Electronics,Smartwatch,1,3290,0.07,3060,2296,764,UPI
+ORD-10283,2025-02-13,CUST-176,Rahul Patel,Central,Stationery,Notebook Pack,5,267,0.03,1295,813,482,Debit Card
+ORD-10284,2024-06-18,CUST-100,Ishita Das,West,Stationery,Desk Organizer,5,464,0.03,2250,1312,938,UPI
+ORD-10285,2024-07-12,CUST-136,Riya Gupta,North,Home & Kitchen,Bedsheet Set,3,1200,0.01,3564,2426,1138,Net Banking
+ORD-10286,2024-02-12,CUST-167,Sanya Gupta,East,Grocery,Green Tea Pack,3,291,0.07,812,546,266,Debit Card
+ORD-10287,2024-04-04,CUST-112,Neha Gupta,Central,Stationery,Desk Organizer,1,479,0.06,450,279,171,Debit Card
+ORD-10288,2024-11-09,CUST-190,Anjali Singh,North,Home & Kitchen,Mixer Grinder,3,2551,0.06,7194,4877,2317,Net Banking
+ORD-10289,2024-08-03,CUST-163,Tanvi Iyer,North,Grocery,Olive Oil 1L,1,845,0.04,811,466,345,UPI
+ORD-10290,2024-07-31,CUST-220,Ishita Patel,West,Grocery,Basmati Rice 5kg,6,687,0.01,4081,2536,1545,UPI
+ORD-10291,2025-09-08,CUST-105,Vihaan Verma,West,Grocery,Basmati Rice 5kg,4,572,0.01,2265,1599,666,Cash on Delivery
+ORD-10292,2024-02-22,CUST-234,Riya Sharma,North,Grocery,Olive Oil 1L,3,815,0.1,2201,1626,575,Net Banking
+ORD-10293,2024-02-01,CUST-237,Ananya Iyer,West,Grocery,Olive Oil 1L,1,733,0.1,660,424,236,UPI
+ORD-10294,2024-03-11,CUST-109,Ananya Gupta,Central,Electronics,Wireless Mouse,4,588,0.01,2328,1602,726,Debit Card
+ORD-10295,2024-01-25,CUST-147,Rohan Das,West,Clothing,Sports Shoes,3,2505,0.01,7440,5315,2125,Debit Card
+ORD-10296,2025-07-27,CUST-237,Ishita Khan,West,Clothing,Denim Jeans,4,1198,0.01,4744,3428,1316,Cash on Delivery
+ORD-10297,2024-07-23,CUST-167,Amit Khan,East,Stationery,Gel Pen Set,2,149,0.09,271,193,78,Credit Card
+ORD-10298,04/08/2025,CUST-198,Sneha Iyer,South,Clothing,Cotton T-Shirt,5,473,0.07,2199,1575,624,Cash on Delivery
+ORD-10299,2024-05-21,CUST-172,,West,Clothing,Cotton T-Shirt,6,503,0.03,2927,1795,1132,Net Banking
+ORD-10300,2024-07-31,CUST-188,Nisha Verma, North,Grocery,Green Tea Pack,1,292,,277,212,65,Credit Card
+ORD-10301,2024-02-21,CUST-184,Ishita Iyer,Central,Electronics,Laptop Stand,3,1089,0.08,3006,1838,1168,Credit Card
+ORD-10302,2025-06-10,CUST-230,Karan Nair,East,Clothing,Denim Jeans,4,1254,0.05,4765,2903,1862,Debit Card
+ORD-10303,2025-09-17,CUST-227,Rahul Patel,South,Stationery,Notebook Pack,3,235,0.09,642,520,122,Credit Card
+ORD-10304,2024-10-12,CUST-223,Aditya Patel,South,Stationery,Desk Organizer,2,538,0.08,990,665,325,Debit Card
+ORD-10305,2025-03-24,CUST-179,Priya Verma,North,Electronics,Smartwatch,1,3628,0.09,3301,2712,589,Net Banking
+ORD-10306,2025-05-03,CUST-152,Manish Das,North,Stationery,Desk Organizer,4,561,0.05,2132,1352,780,Debit Card
+ORD-10307,17/12/2024,CUST-115,Kabir Singh,South,Stationery,Desk Organizer,6,500,0.07,2790,1889,901,Cash on Delivery
+ORD-10308,2025-07-30,CUST-189,Priya Gupta,South,Home & Kitchen,Non-stick Pan,5,880,0.05,4180,2552,1628,Cash on Delivery
+ORD-10309,2024-12-15,CUST-150,Kabir Reddy,Central,Home & Kitchen,Non-stick Pan,3,926,,2584,1795,789,Credit Card
+ORD-10310,2025-04-30,CUST-213,Pooja Nair,Central,Grocery,Olive Oil 1L,2,858,0.1,1544,1260,284,Credit Card
+ORD-10311,2025-05-02,CUST-166,Vikram Singh,East,Clothing,Cotton T-Shirt,3,426,0.04,1227,900,327,UPI
+ORD-10312,2025-05-18,CUST-220,Manish Khan,South,Clothing,Hoodie,3,935,0.1,2525,1620,905,Credit Card
+ORD-10313,2024-02-12,CUST-105,Riya Khan,Central,Stationery,Notebook Pack,1,268,0.1,241,180,61,Net Banking
+ORD-10314,08/05/2025,CUST-174,Rahul Gupta,Central,Electronics,Smartwatch,1,3585,,3370,2504,866,Debit Card
+ORD-10315,2024-10-10,CUST-162,Diya Nair,Central,Clothing,Denim Jeans,2,1174,0.01,2325,1559,766,Debit Card
+ORD-10316,2024-01-19,CUST-223,Manish Iyer,Central,Electronics,Laptop Stand,4,1198,0.01,4744,3099,1645,UPI
+ORD-10317,2024-06-22,CUST-215,Vihaan Verma,North,Electronics,Laptop Stand,5,1238,0.06,5819,3415,2404,Cash on Delivery
+ORD-10318,2025-01-12,CUST-117,Diya Nair,Central,Electronics,Wireless Mouse,2,601,0.01,1190,717,473,Net Banking
+ORD-10319,2024-05-22,CUST-104,Riya Patel,North,Home & Kitchen,Bedsheet Set,1,1230,0.08,1132,739,393,UPI
+ORD-10320,24/06/2025,CUST-134,Anjali Verma, South,Grocery,Basmati Rice 5kg,2,582,0.09,1059,783,276,Cash on Delivery
+ORD-10321,2024-06-02,CUST-234,Anjali Patel,Central,Home & Kitchen,Bedsheet Set,6,1314,0.09,7174,4391,2783,Credit Card
+ORD-10322,2025-05-21,CUST-139,Nisha Verma,Central,Electronics,Laptop Stand,2,1085,0.03,2105,1278,827,Net Banking
+ORD-10323,2025-06-17,CUST-204,Amit Sharma,South,Grocery,Basmati Rice 5kg,4,587,0.06,2207,1656,551,Net Banking
+ORD-10324,2024-03-16,CUST-206,Rajesh Patel, South,Electronics,Laptop Stand,5,1024,0.02,5018,3331,1687,Credit Card
+ORD-10325,2024-06-16,CUST-123,Diya Das,West,Home & Kitchen,Non-stick Pan,6,768,0.02,4516,3070,1446,Credit Card
+ORD-10326,22-5-2024,CUST-219,Anjali Verma,North,Stationery,Notebook Pack,1,246,0.06,231,141,90,Net Banking
+ORD-10327,2025-04-24,CUST-137,Aditya Gupta,East,Clothing,Hoodie,3,1076,0.06,3034,2063,971,UPI
+ORD-10328,9-10-2024,CUST-129,Riya Reddy,Central,Home & Kitchen,Non-stick Pan,6,938,0.08,5178,4062,1116,UPI
+ORD-10329,2025-09-28,CUST-227,Rajesh Sharma, West,Clothing,Denim Jeans,4,1385,0.09,5041,3801,1240,Net Banking
+ORD-10330,2024-12-16,CUST-215,Rahul Sharma,East,Stationery,Desk Organizer,1,522,0.03,506,362,144,Net Banking
+ORD-10331,2024-06-25,CUST-149,Ananya Khan,West,Clothing,Cotton T-Shirt,3,418,0.08,1154,863,291,Debit Card
+ORD-10332,2025-01-12,CUST-230,Karan Verma,Central,Grocery,Basmati Rice 5kg,6,594,0.08,3279,2384,895,Credit Card
+ORD-10333,2024-11-28,CUST-118,Kabir Khan,East,Electronics,USB-C Hub,4,1363,0.01,5397,4042,1355,UPI
+ORD-10334,2025-03-05,CUST-233,Vihaan Verma,South,Clothing,Cotton T-Shirt,6,460,0,2760,1874,886,Net Banking
+ORD-10335,2025-09-18,CUST-170,Meera Nair,East,Electronics,Wireless Mouse,2,672,0.08,1236,776,460,Net Banking
+ORD-10336,2024-05-12,CUST-126,Meera Singh,North,Clothing,Cotton T-Shirt,5,504,0.01,2495,1534,961,Credit Card
+ORD-10337,2024-04-08,CUST-133,Rahul Reddy,South,Stationery,Notebook Pack,4,225,0,900,598,302,Credit Card
+ORD-10338,2024-11-07,CUST-188,Vikram Iyer,East,Stationery,Gel Pen Set,5,166,0.01,822,489,333,Debit Card
+ORD-10339,2024-10-19,CUST-160,Ishita Gupta,South,Grocery,Olive Oil 1L,5,861,0.08,3961,2737,1224,Credit Card
+ORD-10340,2025-09-19,CUST-224,Vihaan Nair,South,Clothing,Sports Shoes,1,2487,0.02,2437,1382,1055,UPI
+ORD-10341,2025-04-28,CUST-135,Kabir Verma,Central,Clothing,Hoodie,4,1051,0.07,3910,2596,1314,Debit Card
+ORD-10342,2024-02-28,CUST-191,Kavya Iyer,Central,Stationery,Notebook Pack,6,265,0.09,1447,1094,353,Cash on Delivery
+ORD-10343,2025-04-12,CUST-178,Shreya Nair,South,Grocery,Olive Oil 1L,2,774,0.04,1486,1000,486,Net Banking
+ORD-10344,25-4-2024,CUST-222,Ishita Nair,South,Clothing,Hoodie,6,1039,0.01,6172,4198,1974,Debit Card
+ORD-10345,2025-05-30,CUST-134,Dev Khan,Central,Home & Kitchen,Mixer Grinder,4,2552,0.07,9493,6590,2903,UPI
+ORD-10346,2025-01-21,CUST-200,Manish Verma,South,Home & Kitchen,Non-stick Pan,4,949,,3720,2835,885,Cash on Delivery
+ORD-10347,2024-06-16,CUST-149,Manish Verma,Central,Electronics,USB-C Hub,1,1411,0.06,1326,980,346,Net Banking
+ORD-10348,2024-11-14,CUST-238,Tanvi Sharma,West,Home & Kitchen,Mixer Grinder,2,2664,0.04,5115,3288,1827,UPI
+ORD-10349,2024-07-18,CUST-175,Rajesh Patel,West,Clothing,Cotton T-Shirt,6,487,0.01,2893,2173,720,UPI
+ORD-10350,2024-07-16,CUST-177,Riya Reddy,Central,Electronics,Wireless Mouse,4,638,0.04,2450,1585,865,Net Banking
+ORD-10351,07/05/2024,CUST-155,,South,Stationery,Gel Pen Set,3,163,0.02,479,317,162,Cash on Delivery
+ORD-10352,18/03/2024,CUST-102,Nisha Sharma,North,Clothing,Denim Jeans,6,1315,0.03,7653,5307,2346,Credit Card
+ORD-10353,2024-07-31,CUST-168,Pooja Verma,South,Electronics,Bluetooth Speaker,3,1633,0.01,4850,2839,2011,Credit Card
+ORD-10354,2024-06-04,CUST-219,Vihaan Patel,West,Grocery,Olive Oil 1L,1,847,0.02,830,573,257,Net Banking
+ORD-10355,2024-05-22,CUST-200,Aditya Khan,Central,Clothing,Cotton T-Shirt,2,455,0.02,892,564,328,Credit Card
+ORD-10356,2024-10-02,CUST-165,Arjun Singh, South,Clothing,Hoodie,1,1013,0.05,962,624,338,UPI
+ORD-10357,2025-02-07,CUST-105,Anjali Khan,Central,Stationery,Gel Pen Set,1,153,0.04,147,110,37,Cash on Delivery
+ORD-10358,2024-06-29,CUST-212,Aarav Patel,North,Clothing,Cotton T-Shirt,2,507,0.05,963,706,257,Debit Card
+ORD-10359,2024-03-25,CUST-157,,Central,Stationery,Notebook Pack,6,248,0.02,1458,933,525,Debit Card
+ORD-10360,2025-08-16,CUST-162,Priya Sharma,West,Grocery,Green Tea Pack,1,318,0.06,299,184,115,Net Banking
+ORD-10361,2024-02-15,CUST-159,Neha Gupta,West,Stationery,Notebook Pack,1,243,0.06,228,151,77,UPI
+ORD-10362,2025-03-25,CUST-104,Rajesh Gupta,West,Electronics,Wireless Mouse,5,597,0.07,2776,2039,737,UPI
+ORD-10362,2025-03-25,CUST-104,Rajesh Gupta,West,Electronics,Wireless Mouse,5,597,0.07,2776,2039,737,UPI
+ORD-10363,2025-06-09,CUST-197,Ishita Reddy,West,Clothing,Cotton T-Shirt,4,493,0.07,1834,1474,360,Cash on Delivery
+ORD-10364,2025-06-21,CUST-170,Dev Das,North,Electronics,Bluetooth Speaker,2,1646,0.05,3127,1949,1178,Cash on Delivery
+ORD-10365,2024-01-28,CUST-208,Anjali Sharma,East,Clothing,Hoodie,6,949,0.04,5466,3739,1727,Net Banking
+ORD-10366,2025-04-07,CUST-121,Vikram Verma,South,Clothing,Cotton T-Shirt,3,469,0.05,1337,815,522,Credit Card
+ORD-10367,2024-04-07,CUST-116,Amit Sharma,South,Clothing,Cotton T-Shirt,3,515,0,1545,1061,484,Credit Card
+ORD-10368,2025-04-10,CUST-206,Priya Iyer, North,Clothing,Denim Jeans,2,1335,0.08,2456,1664,792,Debit Card
+ORD-10369,2024-08-03,CUST-217,Mohit Singh,North,Stationery,Notebook Pack,1,275,0.06,259,195,64,Credit Card
+ORD-10370,2025-02-09,CUST-135,Nisha Singh,North,Stationery,Gel Pen Set,3,166,0.1,448,313,135,UPI
+ORD-10371,2025-07-09,CUST-198,Aditya Verma,South,Home & Kitchen,Non-stick Pan,1,911,0.03,884,560,324,Credit Card
+ORD-10372,2024-05-11,CUST-192,Vihaan Sharma,West,Electronics,Bluetooth Speaker,6,1724,0.02,10137,6899,3238,Cash on Delivery
+ORD-10373,2024-08-20,CUST-142,Ishita Singh,East,Clothing,Denim Jeans,5,1290,0.09,5870,3659,2211,Credit Card
+ORD-10374,2025-06-13,CUST-144,Sneha Nair,East,Stationery,Gel Pen Set,4,168,0.06,632,466,166,Cash on Delivery
+ORD-10375,2025-02-11,CUST-238,Rahul Verma,West,Stationery,Gel Pen Set,5,137,0.08,630,509,121,Debit Card
+ORD-10376,2024-11-09,CUST-104,Nisha Iyer,West,Stationery,Notebook Pack,6,284,0.01,1687,1147,540,UPI
+ORD-10377,2025-08-31,CUST-193,Arjun Reddy,East,Stationery,Notebook Pack,5,279,0.08,1283,971,312,Debit Card
+ORD-10378,20-7-2024,CUST-211,Kabir Das,East,Home & Kitchen,Non-stick Pan,4,855,,3386,2187,1199,Credit Card
+ORD-10379,2024-07-07,CUST-106,Rahul Singh, Central,Stationery,Desk Organizer,3,457,0.06,1289,874,415,Net Banking
+ORD-10380,2024-10-23,CUST-161,Sanya Nair,South,Grocery,Green Tea Pack,5,272,0.06,1278,884,394,Net Banking
+ORD-10381,19/10/2024,CUST-118,Neha Reddy,North,Grocery,Green Tea Pack,6,323,0.02,1899,1273,626,Credit Card
+ORD-10382,2025-09-13,CUST-113,Nisha Singh,Central,Grocery,Olive Oil 1L,1,849,0.06,798,513,285,Debit Card
+ORD-10383,2024-09-20,CUST-228,Suresh Patel,South,Clothing,Cotton T-Shirt,6,455,0.07,2539,2027,512,Net Banking
+ORD-10384,2025-07-03,CUST-209,Pooja Gupta,Central,Clothing,Hoodie,1,904,0.01,895,611,284,Credit Card
+ORD-10385,2024-05-23,CUST-231,Aditya Nair,East,Clothing,Hoodie,1,957,0.01,947,709,238,Net Banking
+ORD-10386,2024-12-05,CUST-207,Kabir Iyer,North,Clothing,Hoodie,4,953,0.03,3698,2468,1230,Credit Card
+ORD-10387,2024-06-02,CUST-238,Shreya Singh,East,Electronics,Laptop Stand,1,995,0.01,985,643,342,Credit Card
+ORD-10388,2025-09-16,CUST-149,Amit Patel,Central,Grocery,Basmati Rice 5kg,5,618,0.01,3059,2144,915,Cash on Delivery
+ORD-10389,2024-03-31,CUST-206,Riya Verma,East,Clothing,Denim Jeans,4,1224,0.01,4847,3503,1344,UPI
+ORD-10390,2025-08-04,CUST-109,Arjun Das,North,Electronics,USB-C Hub,4,1343,0.04,5157,3338,1819,Net Banking
+ORD-10391,2024-08-18,CUST-100,Karan Nair,North,Home & Kitchen,Bedsheet Set,5,1337,0.07,6217,3994,2223,Debit Card
+ORD-10392,2025-08-15,CUST-141,Nisha Iyer,East,Stationery,Notebook Pack,4,237,0.04,910,670,240,UPI
+ORD-10393,2024-06-24,CUST-197,Shreya Iyer,South,Home & Kitchen,Non-stick Pan,5,936,0.02,4586,3281,1305,Debit Card
+ORD-10394,2024-12-29,CUST-140,Aditya Gupta,East,Electronics,Bluetooth Speaker,5,2045,0.03,9918,6172,3746,Credit Card
+ORD-10395,2025-05-08,CUST-120,Rajesh Das,South,Electronics,Smartwatch,3,3526,0.03,10261,6713,3548,Credit Card
+ORD-10396,2025-09-10,CUST-146,Priya Nair,Central,Clothing,Sports Shoes,3,2436,0.02,7162,4646,2516,UPI
+ORD-10397,2025-05-17,CUST-211,Kavya Das, South,Home & Kitchen,Mixer Grinder,3,2952,0.03,8590,5502,3088,Debit Card
+ORD-10398,2024-03-20,CUST-108,Manish Gupta,Central,Home & Kitchen,Mixer Grinder,5,2637,0.01,13053,9292,3761,Net Banking
+ORD-10399,14/08/2024,CUST-129,Karan Khan,Central,Home & Kitchen,Mixer Grinder,5,2578,0.04,12374,9523,2851,Credit Card
+ORD-10400,2024-09-01,CUST-145,Shreya Khan,East,Electronics,USB-C Hub,1,1568,0.04,1505,894,611,Debit Card
+ORD-10401,2024-09-26,CUST-161,Priya Singh,East,Grocery,Olive Oil 1L,1,792,0.04,760,537,223,Cash on Delivery
+ORD-10402,2025-02-28,CUST-141,Vikram Khan,South,Grocery,Basmati Rice 5kg,5,605,0.05,2874,1994,880,UPI
+ORD-10403,2025-02-15,CUST-101,Rahul Patel,West,Grocery,Olive Oil 1L,2,854,0.06,1606,1008,598,Cash on Delivery
+ORD-10404,2024-10-21,CUST-237,Anjali Das,East,Grocery,Olive Oil 1L,3,814,0.09,2222,1831,391,Cash on Delivery
+ORD-10405,2024-02-12,CUST-186,Anjali Das,South,Clothing,Hoodie,2,1030,0.01,2039,1472,567,Credit Card
+ORD-10406,2025-06-04,CUST-143,Rohan Das,West,Home & Kitchen,Bedsheet Set,4,1378,0.06,5181,3210,1971,Debit Card
+ORD-10407,2025-06-19,CUST-200,Vihaan Nair, North,Stationery,Gel Pen Set,1,169,0.09,154,122,32,UPI
+ORD-10408,2025-09-04,CUST-120,Tanvi Iyer,Central,Clothing,Hoodie,2,1090,0.04,2093,1275,818,Credit Card
+ORD-10409,2025-03-11,CUST-138,Kabir Iyer,North,Electronics,USB-C Hub,4,1327,0.09,4830,3159,1671,Net Banking
+ORD-10410,2025-03-12,CUST-164,Kavya Das,West,Home & Kitchen,Non-stick Pan,2,822,0.07,1529,911,618,Credit Card
+ORD-10411,2024-11-09,CUST-203,Vihaan Nair,North,Home & Kitchen,Mixer Grinder,4,2981,0,11924,8523,3401,Cash on Delivery
+ORD-10412,2024-09-11,CUST-102,Riya Singh,North,Grocery,Green Tea Pack,5,318,0.07,1479,1008,471,Cash on Delivery
+ORD-10413,2025-09-12,CUST-124,Neha Gupta,West,Stationery,Desk Organizer,2,571,0.05,1085,730,355,Credit Card
+ORD-10414,2025-04-06,CUST-190,Diya Nair,North,Clothing,Denim Jeans,2,1242,0.09,2260,1623,637,Cash on Delivery
+ORD-10415,2025-04-26,CUST-123,Suresh Patel,Central,Clothing,Sports Shoes,2,2426,0.1,4367,2959,1408,Credit Card
+ORD-10416,03/02/2024,CUST-235,Mohit Singh,South,Electronics,USB-C Hub,3,1591,0.08,4391,2880,1511,Net Banking
+ORD-10417,2025-06-30,CUST-193,Kabir Khan,East,Clothing,Sports Shoes,6,2507,0.03,14591,9831,4760,Net Banking
+ORD-10418,2025-02-12,CUST-214,Meera Patel,North,Electronics,Laptop Stand,2,1160,0.08,2134,1371,763,Credit Card
+ORD-10419,2025-04-03,CUST-186,Manish Verma,East,Stationery,Notebook Pack,5,261,0.06,1227,734,493,Cash on Delivery
+ORD-10420,2024-06-27,CUST-203,Karan Gupta,East,Electronics,Smartwatch,6,3693,0.08,20385,14257,6128,UPI

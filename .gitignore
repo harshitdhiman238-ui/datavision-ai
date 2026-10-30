@@ -1,0 +1,12 @@
+# Dependencies — GitHub par upload NAHI karna (npm install se ban jaata hai)
+node_modules/
+
+# Runtime data — users ka private data, kabhi upload mat karo
+data/
+
+# Secrets — .env me passwords/keys hote hain, kabhi upload mat karo
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db

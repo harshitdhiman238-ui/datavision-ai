@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DataVision AI — Smart Data Analytics Platform</title>
+  <meta name="description" content="Turn your data into actionable insights. Upload Excel or CSV files, clean data, build interactive dashboards and download reports." />
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="/vendor/chart.umd.js"></script>
+  <script src="/vendor/jspdf.umd.min.js"></script>
+  <script src="/vendor/xlsx.full.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <div class="boot-loader">
+      <div class="spinner"></div>
+      <p>Loading DataVision AI…</p>
+    </div>
+  </div>
+  <div id="toast-root"></div>
+  <script>
+    // Guard: this app needs its Node.js server. Opening index.html directly
+    // from the file system (double-click) cannot work — show help instead
+    // of an endless spinner.
+    if (location.protocol === 'file:') {
+      document.getElementById('app').innerHTML = `
+        <div style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px">
+          <div style="max-width:620px;background:#121f38;border:1px solid rgba(148,180,255,.15);border-radius:16px;padding:32px;line-height:1.7">
+            <h2 style="margin-bottom:12px">⚠️ Server start karna zaroori hai / Please start the server</h2>
+            <p style="color:#9fb2d4;margin-bottom:16px">Aapne <b>index.html</b> ko direct open kiya hai. DataVision AI ek full-stack app hai — login, upload aur analysis ke liye iska Node.js server chalana padta hai.</p>
+            <p style="margin-bottom:8px"><b>Windows par aasaan tarika:</b></p>
+            <ol style="margin:0 0 16px 20px;color:#9fb2d4">
+              <li><a href="https://nodejs.org" style="color:#3b82f6">nodejs.org</a> se Node.js (LTS) install karo — sirf ek baar.</li>
+              <li>Project folder <b>datavision-ai</b> me <b>start-windows.bat</b> par double-click karo.</li>
+              <li>Browser khud khul jayega: <b>http://localhost:3000</b></li>
+            </ol>
+            <p style="margin-bottom:8px"><b>Ya Command Prompt se:</b></p>
+            <pre style="background:#0a1220;border-radius:8px;padding:12px;overflow:auto;color:#eaf1ff">cd datavision-ai
+npm install
+npm start</pre>
+            <p style="color:#64779c;font-size:13px;margin-top:14px">Phir browser me <b>http://localhost:3000</b> kholo (index.html par double-click nahi).</p>
+          </div>
+        </div>`;
+      throw new Error('file:// protocol — server required');
+    }
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
